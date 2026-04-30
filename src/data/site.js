@@ -19,10 +19,10 @@ import {
 
 export const clinic = {
   name: "Siva Dental & Maxillofacial Clinic",
-  address: "MN Towers, Opp. Srinivasa Theatre, Hosur, Tamil Nadu",
+  address: "xx,yy,xx.",
   phone: "+91 98765 43210",
-  phoneHref: "tel:+919876543210",
-  whatsappHref: "https://wa.me/919876543210",
+  phoneHref: "tel:+91XXXXXXXXXX",
+  whatsappHref: "https://wa.me/91XXXXXXXXXX",
 };
 
 export const navLinks = [
