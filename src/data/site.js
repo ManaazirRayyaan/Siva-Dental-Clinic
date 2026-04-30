@@ -20,7 +20,7 @@ import {
 export const clinic = {
   name: "Siva Dental & Maxillofacial Clinic",
   address: "xx,yy,xx.",
-  phone: "+91 98765 43210",
+  phone: "+91XXXXXXXXXX",
   phoneHref: "tel:+91XXXXXXXXXX",
   whatsappHref: "https://wa.me/91XXXXXXXXXX",
 };
