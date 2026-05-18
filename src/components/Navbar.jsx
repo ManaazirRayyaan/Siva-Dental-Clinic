@@ -22,8 +22,8 @@ export default function Navbar() {
             S
           </span>
           <span className="leading-tight">
-            <span className="block text-sm font-bold tracking-wide">Siva Dental</span>
-            <span className="block text-xs text-slate-500">& Maxillofacial Clinic</span>
+            <span className="block text-sm font-bold tracking-wide">Dental 2</span>
+            <span className="block text-xs text-slate-500"> Clinic</span>
           </span>
         </Link>
 

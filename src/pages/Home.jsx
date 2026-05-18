@@ -54,7 +54,7 @@ export default function Home() {
       <section className="hero-soft-bg overflow-hidden px-6 py-20 md:px-12 lg:px-20">
         <div className="mx-auto grid max-w-7xl items-center gap-14 lg:grid-cols-[0.9fr_1.1fr]">
           <Reveal className="space-y-7">
-            <p className="text-sm font-bold uppercase tracking-[0.18em] text-[#2563EB]">Siva Dental & Maxillofacial Clinic</p>
+            <p className="text-sm font-bold uppercase tracking-[0.18em] text-[#2563EB]">dental clinic 2</p>
             <h1 className="max-w-4xl text-4xl font-bold leading-tight tracking-tight text-[#0F172A] md:text-6xl">
               Precision Dental & Maxillofacial Care
             </h1>
@@ -101,7 +101,7 @@ export default function Home() {
           </h2>
           <div className="hidden h-44 w-px bg-[#CBD5E1] md:block" />
           <p className="text-lg leading-relaxed text-slate-600">
-            Siva Dental & Maxillofacial Clinic focuses on delivering structured, diagnosis-driven treatment. Each procedure is planned with clarity, hygiene, and long-term outcomes in mind.
+            dental clinic 2 focuses on delivering structured, diagnosis-driven treatment. Each procedure is planned with clarity, hygiene, and long-term outcomes in mind.
           </p>
         </Reveal>
       </SectionWrapper>

@@ -18,7 +18,7 @@ import {
 } from "lucide-react";
 
 export const clinic = {
-  name: "Siva Dental & Maxillofacial Clinic",
+  name: "Dental clinic 2",
   address: "xx,yy,xx.",
   phone: "+91XXXXXXXXXX",
   phoneHref: "tel:+91XXXXXXXXXX",
